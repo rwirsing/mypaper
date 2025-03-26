@@ -1,4 +1,4 @@
-# mypaper
+# a very important title for a very important paper
 
 ## Introduction
 my attempt for a paper
